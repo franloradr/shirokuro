@@ -5,12 +5,23 @@ Japanese logical hobby developed in Python and Kivy<br>
   <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/board.png">
 </p><br>
 
-# Board features
+# Board generation features
  - Stochastic generation boards
- - Unitary/Non-Unitary solution boards
+ - Unitary/Non-Unitary solution generation boards
  - Level-based difficulty system
  - Choice board size
 <p align="center">
   <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/metrics.png">
 </p><br>
+
+# Game options
+ - BackTracking-heuristic-technique to generate all solutions
+ - Aid system based on redirect from wront paths and giving a next step
+ - Save/Load current game, to continue in other time
+ - Pause/resume the chronometer
+ - Reset current game
+ - Return to past states
+ - Guide solution
+ - Etc.
+
 
