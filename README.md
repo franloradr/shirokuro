@@ -6,7 +6,7 @@ Japanese logical hobby developed in Python and Kivy<br>
 </p><br>
 
 # Board generation features
- - Stochastic boards generation
+ - Stochastic/Random boards generation
  - Unitary/Non-Unitary solution boards generation
  - Level-based difficulty system
  - Choice board size
