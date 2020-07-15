@@ -1,5 +1,5 @@
 # shirokuro
-Japanese logical hobby developed in Python and Kivy<br>
+Japanese logical hobby developed in <b>Python</b> and <b>Kivy</b><br>
 <b>Author:</b> Francisco Jesús Belmonte Pintre<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/board.png">
