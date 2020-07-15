@@ -31,7 +31,7 @@ Japanese logical hobby developed in Python and Kivy<br>
  - Ranking based on time spent and aids used
  - Different ranking classifications based on difficulty and size boards
  - Instructions
- - Etc
+ - Etc.
 <p align="center">
   <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/others.png">
 </p><br>
