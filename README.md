@@ -23,5 +23,7 @@ Japanese logical hobby developed in Python and Kivy<br>
  - Return to past states
  - Guide solution
  - Etc.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/game options.png">
+</p><br>
 
