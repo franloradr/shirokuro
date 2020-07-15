@@ -27,3 +27,12 @@ Japanese logical hobby developed in Python and Kivy<br>
   <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/game options.png">
 </p><br>
 
+# Others
+ - Ranking based on time spent and aids used
+ - Different ranking classifications based on difficulty and size boards
+ - Instructions
+ - Etc
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/others.png">
+</p><br>
+
