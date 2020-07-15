@@ -10,3 +10,7 @@ Japanese logical hobby developed in Python and Kivy<br>
  - Unitary/Non-Unitary solution boards
  - Level-based difficulty system
  - Choice board size
+<p align="center">
+  <img src="https://raw.githubusercontent.com/franloradr/shirokuro/master/images/metrics.png">
+</p><br>
+
