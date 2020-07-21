@@ -16,7 +16,7 @@ Japanese logical hobby developed in <b>Python</b> and <b>Kivy</b><br>
 
 # Game options
  - BackTracking-heuristic-technique to generate all solutions
- - Aid system based on redirect from wrong paths and giving a next step
+ - Aid system based on Breadth-first search, redirecting from wrong paths and giving a next step
  - Save/Load current game, to continue in other time
  - Pause/resume the chronometer
  - Reset current game
